@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Accelerometer.</string>
+    <string name="string1">"Accelerometer data including gravity."</string>
+    <string name="string2">"Accelerometer data without gravity."</string>
+    <string name="string3">"Gravity"</string>
+    <string name="string4">"Record Readings"</string>
+    <string name="string5">"Last 20 Accelerometer Readings."</string>
+    <string name="string6">"Last 20 Gravity Readings"</string>
+    <string name="string7">"Last 20 Accelerometer readings without gravity"</string>
+    <string name="unit">"m/s2"</string>
+    <string name="x">" X : "</string>
+    <string name="y">" Y : "</string>
+    <string name="z">" Z : "</string>
+</resources>
