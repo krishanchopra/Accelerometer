@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Accelerometer.</string>
+    <string name="app_name">Accelerometer</string>
     <string name="string1">"Accelerometer data including gravity."</string>
     <string name="string2">"Accelerometer data without gravity."</string>
     <string name="string3">"Gravity"</string>
@@ -11,4 +11,5 @@
     <string name="x">" X : "</string>
     <string name="y">" Y : "</string>
     <string name="z">" Z : "</string>
+    <string name="contactUs">contact@nibblecodes.com</string>
 </resources>
